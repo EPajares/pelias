@@ -1,0 +1,259 @@
+fid,query_text,internal_lat,internal_lon,internal_confidence,internal_match_type,google_status,google_lat,google_lon,google_formatted_address,google_place_id,google_location_type,distance_m
+5684,"Reinhardtstr. 17/1, Ellwangen (Jagst), 73479",52.464574,13.38344,0.8,fallback,OK,48.9543985,10.1241163,"Reinhardtstraße 17, 73479 Ellwangen (Jagst), Germany",ChIJNcaS4_jimEcRMgAaAZ-UvXo,ROOFTOP,452678.56
+5685,"Reinhardtstr. 17/1, Ellwangen (Jagst), 73479",52.464574,13.38344,0.8,fallback,OK,48.9543985,10.1241163,"Reinhardtstraße 17, 73479 Ellwangen (Jagst), Germany",ChIJNcaS4_jimEcRMgAaAZ-UvXo,ROOFTOP,452678.56
+5686,"Reinhardtstr. 17/1, Ellwangen (Jagst), 73479",52.464574,13.38344,0.8,fallback,OK,48.9543985,10.1241163,"Reinhardtstraße 17, 73479 Ellwangen (Jagst), Germany",ChIJNcaS4_jimEcRMgAaAZ-UvXo,ROOFTOP,452678.56
+5687,"Reinhardtstr. 17/1, Ellwangen (Jagst), 73479",52.464574,13.38344,0.8,fallback,OK,48.9543985,10.1241163,"Reinhardtstraße 17, 73479 Ellwangen (Jagst), Germany",ChIJNcaS4_jimEcRMgAaAZ-UvXo,ROOFTOP,452678.56
+5688,"Reinhardtstr. 17/1, Ellwangen (Jagst), 73479",52.464574,13.38344,0.8,fallback,OK,48.9543985,10.1241163,"Reinhardtstraße 17, 73479 Ellwangen (Jagst), Germany",ChIJNcaS4_jimEcRMgAaAZ-UvXo,ROOFTOP,452678.56
+1314,"Hebelstr. 3/1, Villingen-Schwenningen, 78048",48.00444,8.471898,0.8,fallback,OK,48.0624321,8.4514415,"Hebelstraße 3/1, 78048 Villingen-Schwenningen, Germany",ChIJRfwY2NiVkEcR8VU4JdOUsSY,ROOFTOP,6625.393
+6962,"Hauptstr. 229/3, Denzlingen, 79211",48.071371,7.863436,1,exact,OK,48.0653403,7.8916389,"Hauptstraße 229, 79211 Denzlingen, Germany",ChIJ_8vpVpQekUcRo15S4DZYMds,ROOFTOP,2200.301
+4331,"Bronnacker 2/1, Tübingen, 72072",48.491285,9.034763,1,exact,OK,48.4936788,9.052605999999999,"72072 Tübingen, Germany",ChIJCxcuwu_6mUcR4GySDLtrHxw,APPROXIMATE,1341.539
+7146,"Hauptstr. 102/1, Schutterwald, 77746",48.453449,7.896773,1,exact,OK,48.4547059,7.8791587,"Hauptstraße 102/1, 77746 Schutterwald, Germany",ChIJQ9_wVKnSlkcRqvjgMBwZiWc,ROOFTOP,1306.494
+7147,"Hauptstr. 102/1, Schutterwald, 77746",48.453449,7.896773,1,exact,OK,48.4547059,7.8791587,"Hauptstraße 102/1, 77746 Schutterwald, Germany",ChIJQ9_wVKnSlkcRqvjgMBwZiWc,ROOFTOP,1306.494
+7148,"Hauptstr. 102/1, Schutterwald, 77746",48.453449,7.896773,1,exact,OK,48.4547059,7.8791587,"Hauptstraße 102/1, 77746 Schutterwald, Germany",ChIJQ9_wVKnSlkcRqvjgMBwZiWc,ROOFTOP,1306.494
+3817,"Nördliche Ringstr. 100/2, Göppingen, 73033",48.708597,9.660138,1,exact,OK,48.70972709999999,9.6435783,"Nördliche Ringstraße 100/2, 73033 Göppingen, Germany",ChIJxV8s2Y2jmUcRJhbRb-UQoBQ,ROOFTOP,1221.556
+3665,"Kaiserstr. 3/2, Pfullingen, 72793",48.477,9.230174,1,exact,OK,48.4669405,9.2271733,"Kaiserstraße 3/2, 72793 Pfullingen, Germany",ChIJ-zVlYazzmUcROGw0selpbdQ,ROOFTOP,1140.23
+5410,"Lindenstr. 84/1, Gomaringen, 72810",48.452213,9.089793,1,exact,OK,48.4559521,9.1007838,"Lindenstraße 84/1, 72810 Gomaringen, Germany",ChIJYT4v4L7wmUcRrXGMO8kkamw,ROOFTOP,910.951
+5411,"Lindenstr. 84/1, Gomaringen, 72810",48.452213,9.089793,1,exact,OK,48.4559521,9.1007838,"Lindenstraße 84/1, 72810 Gomaringen, Germany",ChIJYT4v4L7wmUcRrXGMO8kkamw,ROOFTOP,910.951
+5412,"Lindenstr. 84/1, Gomaringen, 72810",48.452213,9.089793,1,exact,OK,48.4559521,9.1007838,"Lindenstraße 84/1, 72810 Gomaringen, Germany",ChIJYT4v4L7wmUcRrXGMO8kkamw,ROOFTOP,910.951
+5060,"Oberamtstr. 6/1, Sulz am Neckar, 72172",48.388134,8.630443,1,exact,OK,48.38667,8.62059,"Oberamtstraße 6/1, 72172 Sulz am Neckar, Germany",ChIJhfPIUc-ykEcRgG4y8_GkwJw,ROOFTOP,745.569
+2293,"Einhornstr. 24/2, Schwäbisch Gmünd, 73529",48.785205,9.799703,1,exact,OK,48.7792215,9.796087000000002,"Einhornstraße 24/2, 73529 Schwäbisch Gmünd, Germany",ChIJIWRazvunmUcRJqB4cBoE_zM,ROOFTOP,716.145
+6428,"Am Marktplatz 21/22, Philippsburg, 76661",49.231196,8.459997,0.6,fallback,OK,49.2364634,8.4543382,"Marktpl. 21/22, 76661 Philippsburg, Germany",ChIJHWdj3zSwl0cRIPRJLo0iL1o,ROOFTOP,715.45
+6429,"Am Marktplatz 21/22, Philippsburg, 76661",49.231196,8.459997,0.6,fallback,OK,49.2364634,8.4543382,"Marktpl. 21/22, 76661 Philippsburg, Germany",ChIJHWdj3zSwl0cRIPRJLo0iL1o,ROOFTOP,715.45
+4058,"Kaiserstr. 69/1, Rastatt, 76437",48.85532,8.204355,1,exact,OK,48.860193,8.1998746,"Kaiserstraße 69/1, 76437 Rastatt, Germany",ChIJwUHeko8dl0cRp8oE-Q6Q-V0,ROOFTOP,633.28
+4056,"Kaiserstr. 65/1, Rastatt, 76437",48.85532,8.204355,1,exact,OK,48.8598422,8.2002094,"Kaiserstraße 65/1, 76437 Rastatt, Germany",ChIJBY936Y8dl0cRU1_v1-ka_gU,ROOFTOP,587.228
+4057,"Kaiserstr. 65/1, Rastatt, 76437",48.85532,8.204355,1,exact,OK,48.8598422,8.2002094,"Kaiserstraße 65/1, 76437 Rastatt, Germany",ChIJBY936Y8dl0cRU1_v1-ka_gU,ROOFTOP,587.228
+1770,"Döffinger Str. 3/1, Weil der Stadt, 71263",48.722051,8.895431,1,exact,OK,48.7263967,8.8924986,"Döffinger Str. 3, 71263 Weil der Stadt, Germany",ChIJjboXI-9gl0cR08rr4MOgkE4,ROOFTOP,528.933
+3694,"John-F.-Kennedy-Allee 33/1, Remseck am Neckar, 71686",48.877192,9.223761,1,exact,OK,48.87275,9.22362,"John-F.-Kennedy-Allee 33/1, 71686 Remseck am Neckar, Germany",ChIJa7KI4tLPmUcRPTKTyOG1VsU,ROOFTOP,494.035
+2615,"Von-Speth-Schülzburg-Str. 39 / 1, Ehingen (Donau), 89584",48.309377,9.576972,1,exact,OK,48.3094902,9.5704408,"Von-Speth-Schülzburg-Straße 39/1, 89584 Ehingen (Donau), Germany",EkJWb24tU3BldGgtU2Now7xsemJ1cmctU3RyYcOfZSAzOS8xLCA4OTU4NCBFaGluZ2VuIChEb25hdSksIEdlcm1hbnkiHRobChYKFAoSCa_eh-htKppHEZ47gCMViIjWEgEx,ROOFTOP,483.189
+2616,"Von-Speth-Schülzburg-Str. 39 / 1, Ehingen (Donau), 89584",48.309377,9.576972,1,exact,OK,48.3094902,9.5704408,"Von-Speth-Schülzburg-Straße 39/1, 89584 Ehingen (Donau), Germany",EkJWb24tU3BldGgtU2Now7xsemJ1cmctU3RyYcOfZSAzOS8xLCA4OTU4NCBFaGluZ2VuIChEb25hdSksIEdlcm1hbnkiHRobChYKFAoSCa_eh-htKppHEZ47gCMViIjWEgEx,ROOFTOP,483.189
+4552,"Ludwigsburger Str. 60/1, Benningen am Neckar, 71726",48.947989,9.242949,1,exact,OK,48.9440357,9.2422948,"Ludwigsburger Str. 60/1, 71726 Benningen am Neckar, Germany",ChIJh7j0oIjNmUcRx787YEkSxcU,ROOFTOP,442.176
+4553,"Ludwigsburger Str. 60/1, Benningen am Neckar, 71726",48.947989,9.242949,1,exact,OK,48.9440357,9.2422948,"Ludwigsburger Str. 60/1, 71726 Benningen am Neckar, Germany",ChIJh7j0oIjNmUcRx787YEkSxcU,ROOFTOP,442.176
+4554,"Ludwigsburger Str. 60/1, Benningen am Neckar, 71726",48.947989,9.242949,1,exact,OK,48.9440357,9.2422948,"Ludwigsburger Str. 60/1, 71726 Benningen am Neckar, Germany",ChIJh7j0oIjNmUcRx787YEkSxcU,ROOFTOP,442.176
+5896,"Am Sonnenstück 11/1, Schliengen, 79418",47.759144,7.578303,1,exact,OK,47.762959,7.578837,"Am Sonnenstück 11/1, 79418 Schliengen, Germany",ChIJd1VhZ06hkUcRnHWE-ak1Huc,ROOFTOP,426.082
+427,"Ensostr. 31/1, Ulm, 89079",48.35288,9.900436,1,exact,OK,48.35284859999999,9.906036499999999,"Ensostraße 31-1, 89079 Ulm, Germany",ChIJlScqVHNjmUcRDYHtT457c-A,ROOFTOP,413.856
+428,"Ensostr. 31/1, Ulm, 89079",48.35288,9.900436,1,exact,OK,48.35284859999999,9.906036499999999,"Ensostraße 31-1, 89079 Ulm, Germany",ChIJlScqVHNjmUcRDYHtT457c-A,ROOFTOP,413.856
+7044,"Hauptstr. 45/1, Illerkirchberg, 89171",48.341339,9.998582,1,exact,OK,48.3377056,9.999292299999999,"Hauptstraße 45/1, 89171 Illerkirchberg, Germany",ChIJ9Rh_QRphmUcRAWYzfRNt8uY,ROOFTOP,407.412
+7045,"Hauptstr. 45/1, Illerkirchberg, 89171",48.341339,9.998582,1,exact,OK,48.3377056,9.999292299999999,"Hauptstraße 45/1, 89171 Illerkirchberg, Germany",ChIJ9Rh_QRphmUcRAWYzfRNt8uY,ROOFTOP,407.412
+7046,"Hauptstr. 45/1, Illerkirchberg, 89171",48.341339,9.998582,1,exact,OK,48.3377056,9.999292299999999,"Hauptstraße 45/1, 89171 Illerkirchberg, Germany",ChIJ9Rh_QRphmUcRAWYzfRNt8uY,ROOFTOP,407.412
+7047,"Hauptstr. 45/1, Illerkirchberg, 89171",48.341339,9.998582,1,exact,OK,48.3377056,9.999292299999999,"Hauptstraße 45/1, 89171 Illerkirchberg, Germany",ChIJ9Rh_QRphmUcRAWYzfRNt8uY,ROOFTOP,407.412
+294,"Bregstr. 36/1, Furtwangen im Schwarzwald, 78120",48.049105,8.203059,1,exact,OK,48.0474791,8.1981478,"Bregstraße 36/1, 78120 Furtwangen im Schwarzwald, Germany",ChIJw8kAvuDokEcRHCfmQf4PMe8,ROOFTOP,407.384
+295,"Bregstr. 36/1, Furtwangen im Schwarzwald, 78120",48.049105,8.203059,1,exact,OK,48.0474791,8.1981478,"Bregstraße 36/1, 78120 Furtwangen im Schwarzwald, Germany",ChIJw8kAvuDokEcRHCfmQf4PMe8,ROOFTOP,407.384
+296,"Bregstr. 36/1, Furtwangen im Schwarzwald, 78120",48.049105,8.203059,1,exact,OK,48.0474791,8.1981478,"Bregstraße 36/1, 78120 Furtwangen im Schwarzwald, Germany",ChIJw8kAvuDokEcRHCfmQf4PMe8,ROOFTOP,407.384
+297,"Bregstr. 36/1, Furtwangen im Schwarzwald, 78120",48.049105,8.203059,1,exact,OK,48.0474791,8.1981478,"Bregstraße 36/1, 78120 Furtwangen im Schwarzwald, Germany",ChIJw8kAvuDokEcRHCfmQf4PMe8,ROOFTOP,407.384
+2442,"Industriestr. 13 / 1, Meckesheim, 74909",49.317123,8.813795,1,exact,OK,49.3204747,8.8122584,"Industriestraße 13/1, 74909 Meckesheim, Germany",EjBJbmR1c3RyaWVzdHJhw59lIDEzLzEsIDc0OTA5IE1lY2tlc2hlaW0sIEdlcm1hbnkiHRobChYKFAoSCXnbG23zlJdHERjDEl5WHUBXEgEx,ROOFTOP,388.978
+2443,"Industriestr. 13 / 1, Meckesheim, 74909",49.317123,8.813795,1,exact,OK,49.3204747,8.8122584,"Industriestraße 13/1, 74909 Meckesheim, Germany",EjBJbmR1c3RyaWVzdHJhw59lIDEzLzEsIDc0OTA5IE1lY2tlc2hlaW0sIEdlcm1hbnkiHRobChYKFAoSCXnbG23zlJdHERjDEl5WHUBXEgEx,ROOFTOP,388.978
+2444,"Industriestr. 13 / 1, Meckesheim, 74909",49.317123,8.813795,1,exact,OK,49.3204747,8.8122584,"Industriestraße 13/1, 74909 Meckesheim, Germany",EjBJbmR1c3RyaWVzdHJhw59lIDEzLzEsIDc0OTA5IE1lY2tlc2hlaW0sIEdlcm1hbnkiHRobChYKFAoSCXnbG23zlJdHERjDEl5WHUBXEgEx,ROOFTOP,388.978
+2445,"Industriestr. 13 / 1, Meckesheim, 74909",49.317123,8.813795,1,exact,OK,49.3204747,8.8122584,"Industriestraße 13/1, 74909 Meckesheim, Germany",EjBJbmR1c3RyaWVzdHJhw59lIDEzLzEsIDc0OTA5IE1lY2tlc2hlaW0sIEdlcm1hbnkiHRobChYKFAoSCXnbG23zlJdHERjDEl5WHUBXEgEx,ROOFTOP,388.978
+902,"Talbachstr. 55/1, Bretten, 75015",49.068658,8.681298,1,exact,OK,49.0710493,8.6847101,"Talbachstraße 55/1, 75015 Bretten, Germany",ChIJZfQwepifl0cRnpitUL3G4uE,ROOFTOP,363.988
+633,"Zum Eichberg 2/1, Pfullendorf, 88630",47.923489,9.264618,1,exact,OK,47.9256512,9.2610081,"Zum Eichberg 2/1, 88630 Pfullendorf, Germany",ChIJ__YIocpFmkcRhciLSmMz3m8,ROOFTOP,360.772
+6085,"König-Wilhelm-Str. 74/76, Ilsfeld, 74360",49.055249,9.247434,0.8,fallback,OK,49.0553225,9.242607399999999,"König-Wilhelm-Straße 74-76, 74360 Ilsfeld, Germany",ChIJmVa3RL8tmEcRhzt1msDyPVk,ROOFTOP,351.807
+6086,"König-Wilhelm-Str. 74/76, Ilsfeld, 74360",49.055249,9.247434,0.8,fallback,OK,49.0553225,9.242607399999999,"König-Wilhelm-Straße 74-76, 74360 Ilsfeld, Germany",ChIJmVa3RL8tmEcRhzt1msDyPVk,ROOFTOP,351.807
+6087,"König-Wilhelm-Str. 74/76, Ilsfeld, 74360",49.055249,9.247434,0.8,fallback,OK,49.0553225,9.242607399999999,"König-Wilhelm-Straße 74-76, 74360 Ilsfeld, Germany",ChIJmVa3RL8tmEcRhzt1msDyPVk,ROOFTOP,351.807
+6088,"König-Wilhelm-Str. 74/76, Ilsfeld, 74360",49.055249,9.247434,0.8,fallback,OK,49.0553225,9.242607399999999,"König-Wilhelm-Straße 74-76, 74360 Ilsfeld, Germany",ChIJmVa3RL8tmEcRhzt1msDyPVk,ROOFTOP,351.807
+6089,"König-Wilhelm-Str. 74/76, Ilsfeld, 74360",49.055249,9.247434,0.8,fallback,OK,49.0553225,9.242607399999999,"König-Wilhelm-Straße 74-76, 74360 Ilsfeld, Germany",ChIJmVa3RL8tmEcRhzt1msDyPVk,ROOFTOP,351.807
+3794,"Rheinauer Ring 160/1, Rastatt, 76437",48.87061,8.19675,1,exact,OK,48.8735151,8.1977491,"Rheinauer Ring 160/1, 76437 Rastatt, Germany",ChIJTexwIX8dl0cR5CsTppr9ATk,ROOFTOP,331.194
+3795,"Rheinauer Ring 160/1, Rastatt, 76437",48.87061,8.19675,1,exact,OK,48.8735151,8.1977491,"Rheinauer Ring 160/1, 76437 Rastatt, Germany",ChIJTexwIX8dl0cR5CsTppr9ATk,ROOFTOP,331.194
+3796,"Rheinauer Ring 160/1, Rastatt, 76437",48.87061,8.19675,1,exact,OK,48.8735151,8.1977491,"Rheinauer Ring 160/1, 76437 Rastatt, Germany",ChIJTexwIX8dl0cR5CsTppr9ATk,ROOFTOP,331.194
+3833,"Königstr. 2/1, Deggingen, 73326",48.597294,9.71722,1,exact,OK,48.5977936,9.7216023,"Königstraße 2, 73326 Deggingen, Germany",ChIJ60v-Kc-fmUcRzFBSkZZAD2Y,ROOFTOP,327.019
+7139,"Karl-Friedrich-Str. 42/2, Emmendingen, 79312",48.122152,7.847896,1,exact,OK,48.1230756,7.8437722,"Karl-Friedrich-Straße 42/2, 79312 Emmendingen, Germany",ChIJcd_pxJoYkUcReWo5tOLxicY,ROOFTOP,322.866
+7140,"Karl-Friedrich-Str. 42/2, Emmendingen, 79312",48.122152,7.847896,1,exact,OK,48.1230756,7.8437722,"Karl-Friedrich-Straße 42/2, 79312 Emmendingen, Germany",ChIJcd_pxJoYkUcReWo5tOLxicY,ROOFTOP,322.866
+1765,"Kronenstr. 3/1, Remchingen, 75196",48.956642,8.572851,0.8,fallback,OK,48.9566521,8.5688868,"Kronenstraße 3/1, 75196 Remchingen, Germany",ChIJc2GoxnwMl0cRPLJ97uVH1zc,ROOFTOP,289.444
+1766,"Kronenstr. 3/1, Remchingen, 75196",48.956642,8.572851,0.8,fallback,OK,48.9566521,8.5688868,"Kronenstraße 3/1, 75196 Remchingen, Germany",ChIJc2GoxnwMl0cRPLJ97uVH1zc,ROOFTOP,289.444
+6220,"Kaiserstr. 57/1, Reutlingen, 72764",48.495162,9.213924,1,exact,OK,48.49352589999999,9.216760899999999,"Kaiserstraße 57/1, 72764 Reutlingen, Germany",ChIJodkO3BTymUcRPXvtYorOP9Y,ROOFTOP,277.123
+6221,"Kaiserstr. 57/1, Reutlingen, 72764",48.495162,9.213924,1,exact,OK,48.49352589999999,9.216760899999999,"Kaiserstraße 57/1, 72764 Reutlingen, Germany",ChIJodkO3BTymUcRPXvtYorOP9Y,ROOFTOP,277.123
+6222,"Kaiserstr. 57/1, Reutlingen, 72764",48.495162,9.213924,1,exact,OK,48.49352589999999,9.216760899999999,"Kaiserstraße 57/1, 72764 Reutlingen, Germany",ChIJodkO3BTymUcRPXvtYorOP9Y,ROOFTOP,277.123
+1757,"Kleingemünder Str. 37/1, Heidelberg, 69118",49.418306,8.757129,1,exact,OK,49.41787,8.7609,"Kleingemünder Str. 37/1, 69118 Heidelberg, Germany",ChIJsSE1h97Bl0cR5RDcQLxqjsI,ROOFTOP,277.054
+1758,"Kleingemünder Str. 37/1, Heidelberg, 69118",49.418306,8.757129,1,exact,OK,49.41787,8.7609,"Kleingemünder Str. 37/1, 69118 Heidelberg, Germany",ChIJsSE1h97Bl0cR5RDcQLxqjsI,ROOFTOP,277.054
+1759,"Kleingemünder Str. 37/1, Heidelberg, 69118",49.418306,8.757129,1,exact,OK,49.41787,8.7609,"Kleingemünder Str. 37/1, 69118 Heidelberg, Germany",ChIJsSE1h97Bl0cR5RDcQLxqjsI,ROOFTOP,277.054
+1760,"Kleingemünder Str. 37/1, Heidelberg, 69118",49.418306,8.757129,1,exact,OK,49.41787,8.7609,"Kleingemünder Str. 37/1, 69118 Heidelberg, Germany",ChIJsSE1h97Bl0cR5RDcQLxqjsI,ROOFTOP,277.054
+1761,"Kleingemünder Str. 37/1, Heidelberg, 69118",49.418306,8.757129,1,exact,OK,49.41787,8.7609,"Kleingemünder Str. 37/1, 69118 Heidelberg, Germany",ChIJsSE1h97Bl0cR5RDcQLxqjsI,ROOFTOP,277.054
+764,"Bahnhofstr. 34/1, Balingen, 72336",48.2761,8.851042,1,exact,OK,48.27858579999999,8.851201,"Bahnhofstraße 34/1, 72336 Balingen, Germany",ChIJURUtBD4HmkcRNZaWeJubB98,ROOFTOP,276.659
+2753,"Brielstr. 29/1, Albstadt, 72459",48.253039,8.96532,1,exact,OK,48.2508363,8.9662989,"Brielstraße 29, 72459 Albstadt, Germany",ChIJyUWBT_4EmkcRS2jz6P3cW9M,ROOFTOP,255.428
+2754,"Brielstr. 29/1, Albstadt, 72459",48.253039,8.96532,1,exact,OK,48.2508363,8.9662989,"Brielstraße 29, 72459 Albstadt, Germany",ChIJyUWBT_4EmkcRS2jz6P3cW9M,ROOFTOP,255.428
+5923,"Poststr. 2/2, Weil am Rhein, 79576",47.59312,7.619158,1,exact,OK,47.5910923,7.619836200000001,"Poststraße 2/2, 79576 Weil am Rhein, Germany",ChIJHTSJnR66kUcRRzLUH6pIWWs,ROOFTOP,231.135
+1677,"Ledergasse 2/ImSpital, Schwäbisch Gmünd, 73525",48.80093,9.793287,0.8,fallback,OK,48.801737,9.7960522,"Ledergasse 2, 73525 Schwäbisch Gmünd, Germany",ChIJ9ZuTMheomUcRLo4j2vw5ONE,ROOFTOP,221.515
+1678,"Ledergasse 2/ImSpital, Schwäbisch Gmünd, 73525",48.80093,9.793287,0.8,fallback,OK,48.801737,9.7960522,"Ledergasse 2, 73525 Schwäbisch Gmünd, Germany",ChIJ9ZuTMheomUcRLo4j2vw5ONE,ROOFTOP,221.515
+5317,"Bodelschwinghstr. 10/2, Schwetzingen, 68723",49.379664,8.570379,1,exact,OK,49.377951,8.56984,"Bodelschwinghstraße 10/2, 68723 Schwetzingen, Germany",ChIJcSS2YvTHl0cRar8mpLP699E,ROOFTOP,194.433
+5318,"Bodelschwinghstr. 10/2, Schwetzingen, 68723",49.379664,8.570379,1,exact,OK,49.377951,8.56984,"Bodelschwinghstraße 10/2, 68723 Schwetzingen, Germany",ChIJcSS2YvTHl0cRar8mpLP699E,ROOFTOP,194.433
+5319,"Bodelschwinghstr. 10/2, Schwetzingen, 68723",49.379664,8.570379,1,exact,OK,49.377951,8.56984,"Bodelschwinghstraße 10/2, 68723 Schwetzingen, Germany",ChIJcSS2YvTHl0cRar8mpLP699E,ROOFTOP,194.433
+5320,"Bodelschwinghstr. 10/2, Schwetzingen, 68723",49.379664,8.570379,1,exact,OK,49.377951,8.56984,"Bodelschwinghstraße 10/2, 68723 Schwetzingen, Germany",ChIJcSS2YvTHl0cRar8mpLP699E,ROOFTOP,194.433
+6654,"Ringelbachstr. 225/1, Reutlingen, 72762",48.474879,9.195307,1,exact,OK,48.4732585,9.1956319,"Ringelbachstraße 225/1, 72762 Reutlingen, Germany",ChIJBZwZIS3ymUcRNE_E1kMgDi4,ROOFTOP,181.776
+3956,"Dorfstr. 38/1, Rot an der Rot, 88430",47.977361,10.046528,0.8,fallback,OK,47.9760883,10.0479573,"Dorfstraße 38, 88430 Rot an der Rot, Germany",ChIJJw86KqPsm0cR07j2RqTiwU4,ROOFTOP,177.05
+3957,"Dorfstr. 38/1, Rot an der Rot, 88430",47.977361,10.046528,0.8,fallback,OK,47.9760883,10.0479573,"Dorfstraße 38, 88430 Rot an der Rot, Germany",ChIJJw86KqPsm0cR07j2RqTiwU4,ROOFTOP,177.05
+3958,"Dorfstr. 38/1, Rot an der Rot, 88430",47.977361,10.046528,0.8,fallback,OK,47.9760883,10.0479573,"Dorfstraße 38, 88430 Rot an der Rot, Germany",ChIJJw86KqPsm0cR07j2RqTiwU4,ROOFTOP,177.05
+5575,"Hauptstr. 302/1, Weil am Rhein, 79576",47.592334,7.614522,1,exact,OK,47.5925291,7.612263199999999,"Hauptstraße 302/1, 79576 Weil am Rhein, Germany",ChIJoQ2LLSC6kUcR1QMjtm9hr58,ROOFTOP,170.771
+5576,"Hauptstr. 302/1, Weil am Rhein, 79576",47.592334,7.614522,1,exact,OK,47.5925291,7.612263199999999,"Hauptstraße 302/1, 79576 Weil am Rhein, Germany",ChIJoQ2LLSC6kUcR1QMjtm9hr58,ROOFTOP,170.771
+5577,"Hauptstr. 302/1, Weil am Rhein, 79576",47.592334,7.614522,1,exact,OK,47.5925291,7.612263199999999,"Hauptstraße 302/1, 79576 Weil am Rhein, Germany",ChIJoQ2LLSC6kUcR1QMjtm9hr58,ROOFTOP,170.771
+5578,"Hauptstr. 302/1, Weil am Rhein, 79576",47.592334,7.614522,1,exact,OK,47.5925291,7.612263199999999,"Hauptstraße 302/1, 79576 Weil am Rhein, Germany",ChIJoQ2LLSC6kUcR1QMjtm9hr58,ROOFTOP,170.771
+5579,"Hauptstr. 302/1, Weil am Rhein, 79576",47.592334,7.614522,1,exact,OK,47.5925291,7.612263199999999,"Hauptstraße 302/1, 79576 Weil am Rhein, Germany",ChIJoQ2LLSC6kUcR1QMjtm9hr58,ROOFTOP,170.771
+4637,"Beethovenstr. 3/5, Wiesloch, 69168",49.299222,8.703316,1,exact,OK,49.2977341,8.7034709,"Beethovenstraße 3/5, 69168 Wiesloch, Germany",ChIJL7mhTWu-l0cR668wTPt_wiE,ROOFTOP,165.828
+3547,"Dobelstr. 22/1, Karlsbad, 76307",48.897007,8.470888,1,exact,OK,48.895666,8.471158299999999,"Dobelstraße 22-1, 76307 Karlsbad, Germany",ChIJNcHcxyYOl0cRDu6S90gU_r0,ROOFTOP,150.416
+3548,"Dobelstr. 22/1, Karlsbad, 76307",48.897007,8.470888,1,exact,OK,48.895666,8.471158299999999,"Dobelstraße 22-1, 76307 Karlsbad, Germany",ChIJNcHcxyYOl0cRDu6S90gU_r0,ROOFTOP,150.416
+5381,"Hechinger Str. 22/1, Mössingen, 72116",48.401066,9.013542,1,exact,OK,48.4023502,9.0141151,"Hechinger Str. 22, 72116 Mössingen, Germany",ChIJac6MNVT4mUcREDu3QUWlfcs,ROOFTOP,148.932
+3898,"Olgastr. 103/1, Ulm, 89073",48.401684,9.989395,1,exact,OK,48.4019911,9.991291799999999,"Olgastraße 103, 89073 Ulm, Germany",ChIJP5wG9oZmmUcRBv77ONB9LBQ,ROOFTOP,144.13
+559,"Prof.-Schumacher-Str. 2/8, Osterburken, 74706",49.427615,9.421941,1,exact,OK,49.4286484,9.4230322,"Prof.-Schumacher-Straße 2-8, 74706 Osterburken, Germany",ChIJAQCwvooQmEcRjzCJAvmX-o4,ROOFTOP,139.398
+560,"Prof.-Schumacher-Str. 2/8, Osterburken, 74706",49.427615,9.421941,1,exact,OK,49.4286484,9.4230322,"Prof.-Schumacher-Straße 2-8, 74706 Osterburken, Germany",ChIJAQCwvooQmEcRjzCJAvmX-o4,ROOFTOP,139.398
+561,"Prof.-Schumacher-Str. 2/8, Osterburken, 74706",49.427615,9.421941,1,exact,OK,49.4286484,9.4230322,"Prof.-Schumacher-Straße 2-8, 74706 Osterburken, Germany",ChIJAQCwvooQmEcRjzCJAvmX-o4,ROOFTOP,139.398
+2650,"Hauptmannstr. 17/1, Ravenstein, 74747",49.429412,9.555819,1,exact,OK,49.4286891,9.557316300000002,"Hauptmannstraße 17, 74747 Ravenstein, Germany",ChIJWeV0HvgSmEcRY4t_Kt6ryOU,ROOFTOP,134.859
+5114,"Hindenburgstr. 9/1, Herrenberg, 71083",48.595418,8.867886,1,exact,OK,48.5949439,8.8693028,"Hindenburgstraße 9/1, 71083 Herrenberg, Germany",ChIJ4xtB5-FYl0cRog7esiw7fFo,ROOFTOP,116.771
+5115,"Hindenburgstr. 9/1, Herrenberg, 71083",48.595418,8.867886,1,exact,OK,48.5949439,8.8693028,"Hindenburgstraße 9/1, 71083 Herrenberg, Germany",ChIJ4xtB5-FYl0cRog7esiw7fFo,ROOFTOP,116.771
+5249,"Markgrafenstr. 2/3, Schwetzingen, 68723",49.37865,8.576692,0.8,fallback,OK,49.3792994,8.5754471,"Markgrafenstraße 2/3, 68723 Schwetzingen, Germany",ChIJdUlXlIzHl0cR-7dKVc8r9Y4,ROOFTOP,115.483
+2002,"Hohenstaufenstr. 25/1, Möglingen, 71696",48.891777,9.136988,0.8,fallback,OK,48.8912376,9.1356637,"Hohenstaufenstraße 25/1, 71696 Möglingen, Germany",ChIJc4jfriTRmUcRw0uD0Xn0_cI,ROOFTOP,113.891
+2003,"Hohenstaufenstr. 25/1, Möglingen, 71696",48.891777,9.136988,0.8,fallback,OK,48.8912376,9.1356637,"Hohenstaufenstraße 25/1, 71696 Möglingen, Germany",ChIJc4jfriTRmUcRw0uD0Xn0_cI,ROOFTOP,113.891
+6574,"Andreaestr. 16/1, Vaihingen an der Enz, 71665",48.937424,8.958749,1,exact,OK,48.9372146,8.9601882,"Andreaestraße 16/1, 71665 Vaihingen an der Enz, Germany",ChIJ-X7Jl51-l0cRq-HWYLJQYn8,ROOFTOP,107.67
+6575,"Andreaestr. 16/1, Vaihingen an der Enz, 71665",48.937424,8.958749,1,exact,OK,48.9372146,8.9601882,"Andreaestraße 16/1, 71665 Vaihingen an der Enz, Germany",ChIJ-X7Jl51-l0cRq-HWYLJQYn8,ROOFTOP,107.67
+6576,"Andreaestr. 16/1, Vaihingen an der Enz, 71665",48.937424,8.958749,1,exact,OK,48.9372146,8.9601882,"Andreaestraße 16/1, 71665 Vaihingen an der Enz, Germany",ChIJ-X7Jl51-l0cRq-HWYLJQYn8,ROOFTOP,107.67
+6577,"Andreaestr. 16/1, Vaihingen an der Enz, 71665",48.937424,8.958749,1,exact,OK,48.9372146,8.9601882,"Andreaestraße 16/1, 71665 Vaihingen an der Enz, Germany",ChIJ-X7Jl51-l0cRq-HWYLJQYn8,ROOFTOP,107.67
+6578,"Andreaestr. 16/1, Vaihingen an der Enz, 71665",48.937424,8.958749,1,exact,OK,48.9372146,8.9601882,"Andreaestraße 16/1, 71665 Vaihingen an der Enz, Germany",ChIJ-X7Jl51-l0cRq-HWYLJQYn8,ROOFTOP,107.67
+4468,"Hauptstraße 29/01, Fellbach, 70736",48.841178,9.26378,0.8,fallback,OK,48.8418334,9.2648393,"Hauptstraße 29/1, 70736 Fellbach, Germany",ChIJb8JfinDPmUcRlIgrUBwsKVQ,ROOFTOP,106.399
+3499,"Salierstr. 7/2, Waiblingen, 71334",48.838558,9.331274,1,exact,OK,48.83779209999999,9.3321426,"Salierstraße 7/2, 71334 Waiblingen, Germany",ChIJwyyO0pfImUcROdUMDqgPfLA,ROOFTOP,106.274
+3500,"Salierstr. 7/2, Waiblingen, 71334",48.838558,9.331274,1,exact,OK,48.83779209999999,9.3321426,"Salierstraße 7/2, 71334 Waiblingen, Germany",ChIJwyyO0pfImUcROdUMDqgPfLA,ROOFTOP,106.274
+3501,"Salierstr. 7/2, Waiblingen, 71334",48.838558,9.331274,1,exact,OK,48.83779209999999,9.3321426,"Salierstraße 7/2, 71334 Waiblingen, Germany",ChIJwyyO0pfImUcROdUMDqgPfLA,ROOFTOP,106.274
+5772,"Sindelfinger Str. 13/1, Sindelfingen, 71069",48.724731,8.965518,1,exact,OK,48.7239097,8.965103,"Sindelfinger Str. 13/1, 71069 Sindelfingen, Germany",ChIJtUYSP4bfmUcRjITOYMYy0wA,ROOFTOP,96.264
+4175,"Aalener Str. 9/1, Königsbronn, 89551",48.740707,10.114868,1,exact,OK,48.7412409,10.1138352,"Aalener Str. 9/1, 89551 Königsbronn, Germany",ChIJOXYV9EgXmUcR_6TB5WPlzDM,ROOFTOP,96.23
+4176,"Aalener Str. 9/1, Königsbronn, 89551",48.740707,10.114868,1,exact,OK,48.7412409,10.1138352,"Aalener Str. 9/1, 89551 Königsbronn, Germany",ChIJOXYV9EgXmUcR_6TB5WPlzDM,ROOFTOP,96.23
+6393,"Am Viechberg 6/1, Fichtenberg, 74427",48.988883,9.711705,1,exact,OK,48.9889316,9.7129561,"Am Viechberg 6/1, 74427 Fichtenberg, Germany",ChIJvy0EeftSmEcRV-3U_NHo3Yc,ROOFTOP,91.448
+5504,"Freudentaler Str. 9/6, Sachsenheim, 74343",48.999014,9.021546,1,exact,OK,48.9989378,9.022765999999999,"Freudentaler Str. 9/6, 74343 Sachsenheim, Germany",ChIJ0aQozex_l0cRVpxrwpeL_N4,ROOFTOP,89.404
+169,"Kelterstr. 6/1, Eisingen, 75239",48.948453,8.67038,0.8,fallback,OK,48.94832700000001,8.6691956,"Kelterstraße 6/1, 75239 Eisingen, Germany",ChIJ0aA01nlzl0cRQnjP4ZPy_rg,ROOFTOP,87.619
+170,"Kelterstr. 6/1, Eisingen, 75239",48.948453,8.67038,0.8,fallback,OK,48.94832700000001,8.6691956,"Kelterstraße 6/1, 75239 Eisingen, Germany",ChIJ0aA01nlzl0cRQnjP4ZPy_rg,ROOFTOP,87.619
+2286,"Untere Hauptstr. 8/2, Löffingen, 79843",47.88357,8.343596,1,exact,OK,47.8828416,8.3434931,"u. Hauptstraße 8, 79843 Löffingen, Germany",ChIJaXMgE_GMkEcRItthxMkNn4M,ROOFTOP,81.357
+1150,"Wilhelmstr. 3/1, Welzheim, 73642",48.875487,9.635314,1,exact,OK,48.8753608,9.6342234,"Wilhelmstraße 3/1, 73642 Welzheim, Germany",ChIJHzO77gOumUcRZux5CgRq-1E,ROOFTOP,80.984
+484,"Friedhofstr. 1/1, Aalen, 73430",48.838131,10.091457,1,exact,OK,48.8374426,10.0914898,"Friedhofstraße 1/1, 73430 Aalen, Germany",ChIJ9Ri4UoEbmUcR0NK-H3H1awM,ROOFTOP,76.584
+485,"Friedhofstr. 1/1, Aalen, 73430",48.838131,10.091457,1,exact,OK,48.8374426,10.0914898,"Friedhofstraße 1/1, 73430 Aalen, Germany",ChIJ9Ri4UoEbmUcR0NK-H3H1awM,ROOFTOP,76.584
+4831,"Alte Bahnhofstr. 10/3, Lahr/Schwarzwald, 77933",48.337624,7.867463,1,exact,OK,48.337197,7.868257799999999,"Alte Bahnhofstraße 10/3, 77933 Lahr/Schwarzwald, Germany",ChIJCeOAqkkukUcR-fGHA5t23z8,ROOFTOP,75.536
+4832,"Alte Bahnhofstr. 10/3, Lahr/Schwarzwald, 77933",48.337624,7.867463,1,exact,OK,48.337197,7.868257799999999,"Alte Bahnhofstraße 10/3, 77933 Lahr/Schwarzwald, Germany",ChIJCeOAqkkukUcR-fGHA5t23z8,ROOFTOP,75.536
+4833,"Alte Bahnhofstr. 10/3, Lahr/Schwarzwald, 77933",48.337624,7.867463,1,exact,OK,48.337197,7.868257799999999,"Alte Bahnhofstraße 10/3, 77933 Lahr/Schwarzwald, Germany",ChIJCeOAqkkukUcR-fGHA5t23z8,ROOFTOP,75.536
+4834,"Alte Bahnhofstr. 10/3, Lahr/Schwarzwald, 77933",48.337624,7.867463,1,exact,OK,48.337197,7.868257799999999,"Alte Bahnhofstraße 10/3, 77933 Lahr/Schwarzwald, Germany",ChIJCeOAqkkukUcR-fGHA5t23z8,ROOFTOP,75.536
+529,"Kuftenstraße 17/1, Langenau, 89129",48.497658,10.120805,1,exact,OK,48.49751269999999,10.1217885,"Kuftenstraße 17/1, 89129 Langenau, Germany",ChIJz5CoVwpCmUcRgfo1yEb4OTg,ROOFTOP,74.247
+6673,"Schafstallstr. 8/1, Reutlingen, 72762",48.48901,9.189885,1,exact,OK,48.4891709,9.1889123,"Schafstallstraße 8, 72762 Reutlingen, Germany",ChIJf3JjR4rxmUcR8L1FHtmW9w0,ROOFTOP,73.883
+1080,"Rathausstr. 20/22, Abstatt, 74232",49.068233,9.289378,0.8,fallback,OK,49.06762,9.28975,"Rathausstraße 20/22, 74232 Abstatt, Germany",ChIJ-3rWWAMymEcRuoP3Yc99prA,ROOFTOP,73.352
+4706,"Hohe Str. 5/1, Crailsheim, 74564",49.143737,10.056692,1,exact,OK,49.14431829999999,10.0562578,"Hohe Str. 5/1, 74564 Crailsheim, Germany",ChIJSwtRjTvxmEcRg71xcIlVb90,ROOFTOP,71.941
+4707,"Hohe Str. 5/1, Crailsheim, 74564",49.143737,10.056692,1,exact,OK,49.14431829999999,10.0562578,"Hohe Str. 5/1, 74564 Crailsheim, Germany",ChIJSwtRjTvxmEcRg71xcIlVb90,ROOFTOP,71.941
+3734,"Benzengasse 11/1, Ludwigsburg, 71636",48.884645,9.159888,1,exact,OK,48.8851772,9.1594619,"Benzengasse 11/1, 71636 Ludwigsburg, Germany",ChIJE51sBATRmUcRvmRwM08zzJY,ROOFTOP,66.878
+1897,"Johanniterweg 1/2, Villingen-Schwenningen, 78052",48.106325,8.470666,1,exact,OK,48.10649369999999,8.4698155,"Johanniterweg 1/2, 78052 Villingen-Schwenningen, Germany",ChIJ_9f4duC9kEcR8d6mK8D6Zh4,ROOFTOP,65.877
+1898,"Johanniterweg 1/2, Villingen-Schwenningen, 78052",48.106325,8.470666,1,exact,OK,48.10649369999999,8.4698155,"Johanniterweg 1/2, 78052 Villingen-Schwenningen, Germany",ChIJ_9f4duC9kEcR8d6mK8D6Zh4,ROOFTOP,65.877
+3191,"Furtwänglerstr. 2/5, Heidelberg, 69121",49.421421,8.681439,1,exact,OK,49.4208929,8.6810891,"Furtwänglerstraße 2/5, 69121 Heidelberg, Germany",ChIJFcH-0DvBl0cRsclGJTzF3sU,ROOFTOP,63.944
+5378,"Hauptstr. 47/1, Löchgau, 74369",49.001025,9.108612,1,exact,OK,49.00065,9.107999999999999,"Hauptstraße 47/1, 74369 Löchgau, Germany",ChIJE_Gx4tPUmUcRfzAbtUFFEqU,ROOFTOP,61.089
+4725,"Bricciusstr. 22/1, Rottenburg am Neckar, 72108",48.502318,8.967116,1,exact,OK,48.5025619,8.966374000000002,"Bricciusstraße 22/1, 72108 Rottenburg am Neckar, Germany",ChIJuzJ6sd_9mUcRp6Ohke9EpMM,ROOFTOP,61.025
+823,"Stuttgarter Str. 18, Eislingen/Fils, 73054",48.694525,9.704235,1,exact,OK,48.6942239,9.7049264,"Stuttgarter Str. 18, 73054 Eislingen/Fils, Germany",ChIJNzOzvT2hmUcRXu2MrnzUAlo,ROOFTOP,60.796
+4742,"Ringstr. 2/1, Brigachtal, 78086",48.006286,8.468702,1,exact,OK,48.0060469,8.4680237,"Ringstraße 2, 78086 Brigachtal, Germany",ChIJYdD0pDSRkEcRTVNQZ4nZMho,ROOFTOP,57.038
+4743,"Ringstr. 2/1, Brigachtal, 78086",48.006286,8.468702,1,exact,OK,48.0060469,8.4680237,"Ringstraße 2, 78086 Brigachtal, Germany",ChIJYdD0pDSRkEcRTVNQZ4nZMho,ROOFTOP,57.038
+2876,"Schlattstr. 8/1, Ötisheim, 75443",48.964101,8.811618,1,exact,OK,48.9638454,8.8121273,"Schlattstraße 8, 75443 Ötisheim, Germany",ChIJTSWqX0F3l0cRxtartDjm7kg,ROOFTOP,46.799
+4891,"Alte Landstr. 3 a, Lahr/Schwarzwald, 77933",48.328542,7.92974,1,exact,OK,48.3281931,7.930078,"Alte Landstraße 3A, 77933 Lahr/Schwarzwald, Germany",ChIJz5-1h9YukUcRLBO6hSThFjQ,ROOFTOP,46.147
+1945,"August-Scholl-Str. 2/1, Steinheim an der Murr, 71711",48.965985,9.277233,1,exact,OK,48.96577389999999,9.27669,"August-Scholl-Straße 2/1, 71711 Steinheim an der Murr, Germany",ChIJle_z4RPNmUcRp4zS_BCUmKE,ROOFTOP,46.068
+1946,"August-Scholl-Str. 2/1, Steinheim an der Murr, 71711",48.965985,9.277233,1,exact,OK,48.96577389999999,9.27669,"August-Scholl-Straße 2/1, 71711 Steinheim an der Murr, Germany",ChIJle_z4RPNmUcRp4zS_BCUmKE,ROOFTOP,46.068
+1947,"August-Scholl-Str. 2/1, Steinheim an der Murr, 71711",48.965985,9.277233,1,exact,OK,48.96577389999999,9.27669,"August-Scholl-Straße 2/1, 71711 Steinheim an der Murr, Germany",ChIJle_z4RPNmUcRp4zS_BCUmKE,ROOFTOP,46.068
+6921,"Alter Stadtbahnhof 1, Lahr/Schwarzwald, 77933",48.337395,7.862627,1,exact,OK,48.3375116,7.8632037,"Alter Stadtbahnhof 1, 77933 Lahr/Schwarzwald, Germany",ChIJ9xW-TTYukUcRL3zhPCu6tG4,ROOFTOP,44.555
+6922,"Alter Stadtbahnhof 1, Lahr/Schwarzwald, 77933",48.337395,7.862627,1,exact,OK,48.3375116,7.8632037,"Alter Stadtbahnhof 1, 77933 Lahr/Schwarzwald, Germany",ChIJ9xW-TTYukUcRL3zhPCu6tG4,ROOFTOP,44.555
+6923,"Alter Stadtbahnhof 1, Lahr/Schwarzwald, 77933",48.337395,7.862627,1,exact,OK,48.3375116,7.8632037,"Alter Stadtbahnhof 1, 77933 Lahr/Schwarzwald, Germany",ChIJ9xW-TTYukUcRL3zhPCu6tG4,ROOFTOP,44.555
+6924,"Alter Stadtbahnhof 1, Lahr/Schwarzwald, 77933",48.337395,7.862627,1,exact,OK,48.3375116,7.8632037,"Alter Stadtbahnhof 1, 77933 Lahr/Schwarzwald, Germany",ChIJ9xW-TTYukUcRL3zhPCu6tG4,ROOFTOP,44.555
+288,"Rottenburger Str. 3/1, Bodelshausen, 72411",48.396519,8.972177,1,exact,OK,48.3969166,8.9721484,"Rottenburger Str. 3, 72411 Bodelshausen, Germany",ChIJMZm2g8X4mUcRNiktSzZXo4k,ROOFTOP,44.261
+7166,"Europaplatz 2/1, Tübingen, 72072",48.516379,9.058513,1,exact,OK,48.516739,9.058273999999999,"Europapl. 2/1, 72072 Tübingen, Germany",ChIJYT3guNH6mUcRQ-u4-MRSiPg,ROOFTOP,43.73
+7167,"Europaplatz 2/1, Tübingen, 72072",48.516379,9.058513,1,exact,OK,48.516739,9.058273999999999,"Europapl. 2/1, 72072 Tübingen, Germany",ChIJYT3guNH6mUcRQ-u4-MRSiPg,ROOFTOP,43.73
+7168,"Europaplatz 2/1, Tübingen, 72072",48.516379,9.058513,1,exact,OK,48.516739,9.058273999999999,"Europapl. 2/1, 72072 Tübingen, Germany",ChIJYT3guNH6mUcRQ-u4-MRSiPg,ROOFTOP,43.73
+988,"Wilhelmstr. 4/1, Bad Liebenzell, 75378",48.771543,8.731149,1,exact,OK,48.7718379,8.7315395,"Wilhelmstraße 4/1, 75378 Bad Liebenzell, Germany",ChIJe8hdaN1ol0cRN4ngl2-mAtI,ROOFTOP,43.523
+4987,"Talstr. 1/1, Emmendingen, 79312",48.121779,7.85275,1,exact,OK,48.1214197,7.852618799999999,"Talstraße 1/1, 79312 Emmendingen, Germany",ChIJswsCO5gYkUcRsYdJ_Mz4ayE,ROOFTOP,41.122
+4988,"Talstr. 1/1, Emmendingen, 79312",48.121779,7.85275,1,exact,OK,48.1214197,7.852618799999999,"Talstraße 1/1, 79312 Emmendingen, Germany",ChIJswsCO5gYkUcRsYdJ_Mz4ayE,ROOFTOP,41.122
+3365,"Weinbrennerstr. 2/1, Neulingen, 75245",48.966695,8.72464,1,exact,OK,48.9670001,8.7243522,"Weinbrennerstraße 2/1, 75245 Neulingen, Germany",ChIJ-UPQYhx0l0cRYXUI9yeVP-w,ROOFTOP,39.904
+3258,"Schillerstr. 1/1, Ötigheim, 76470",48.887601,8.238741,1,exact,OK,48.8879086,8.238962899999999,"Schillerstraße 1-1, 76470 Ötigheim, Germany",ChIJH8wNkBgdl0cR5BU-ireS1Ig,ROOFTOP,37.856
+3259,"Schillerstr. 1/1, Ötigheim, 76470",48.887601,8.238741,1,exact,OK,48.8879086,8.238962899999999,"Schillerstraße 1-1, 76470 Ötigheim, Germany",ChIJH8wNkBgdl0cR5BU-ireS1Ig,ROOFTOP,37.856
+4671,"Tuttlinger Str. 3/1, Meßkirch, 88605",47.99418,9.104176,0.8,fallback,OK,47.9940596,9.1046382,"Tuttlinger Str. 3/1, 88605 Meßkirch, Germany",ChIJ2xX3al5qmkcRidSjBh522SI,ROOFTOP,36.907
+516,"St.-Martin-Str. 3/1, Mengen, 88512",48.049887,9.329559,0.8,fallback,OK,48.0496321,9.32973,"St.-Martin-Straße 3/1, 88512 Mengen, Germany",ChIJLXP12Dk4mkcRTy5mXVTSVbs,ROOFTOP,31.063
+4741,"Poststr. 45/1, Donzdorf, 73072",48.684231,9.804491,1,exact,OK,48.6841884,9.8048986,"Poststraße 45, 73072 Donzdorf, Germany",ChIJDb70YUcKmUcReq6H7GoWBZQ,ROOFTOP,30.295
+4464,"Hauptstr. 3/1, Beuren, 72660",48.569539,9.403731,1,exact,OK,48.5693822,9.4040504,"Hauptstraße 3/1, 72660 Beuren, Germany",ChIJwZcAcvGTmUcRnT7aDYHoE1A,ROOFTOP,29.263
+4465,"Hauptstr. 3/1, Beuren, 72660",48.569539,9.403731,1,exact,OK,48.5693822,9.4040504,"Hauptstraße 3/1, 72660 Beuren, Germany",ChIJwZcAcvGTmUcRnT7aDYHoE1A,ROOFTOP,29.263
+3899,"Herrengasse 4/1, Waldstetten, 73550",48.730288,9.810938,1,exact,OK,48.73017,9.810590000000001,"Herrengasse 4/1, 73550 Waldstetten, Germany",ChIJTROqOccJmUcRlExbdJWFnjU,ROOFTOP,28.699
+4916,"Kähnermatt 5/1, Lahr/Schwarzwald, 77933",48.309922,7.863539,1,exact,OK,48.30987930000001,7.8631701,"Kähnermatt 5/1, 77933 Lahr/Schwarzwald, Germany",ChIJe5uZ-ZUvkUcR4c_ZhYbF7Qc,ROOFTOP,27.692
+4917,"Kähnermatt 5/1, Lahr/Schwarzwald, 77933",48.309922,7.863539,1,exact,OK,48.30987930000001,7.8631701,"Kähnermatt 5/1, 77933 Lahr/Schwarzwald, Germany",ChIJe5uZ-ZUvkUcR4c_ZhYbF7Qc,ROOFTOP,27.692
+4918,"Kähnermatt 5/1, Lahr/Schwarzwald, 77933",48.309922,7.863539,1,exact,OK,48.30987930000001,7.8631701,"Kähnermatt 5/1, 77933 Lahr/Schwarzwald, Germany",ChIJe5uZ-ZUvkUcR4c_ZhYbF7Qc,ROOFTOP,27.692
+4919,"Kähnermatt 5/1, Lahr/Schwarzwald, 77933",48.309922,7.863539,1,exact,OK,48.30987930000001,7.8631701,"Kähnermatt 5/1, 77933 Lahr/Schwarzwald, Germany",ChIJe5uZ-ZUvkUcR4c_ZhYbF7Qc,ROOFTOP,27.692
+4920,"Kähnermatt 5/1, Lahr/Schwarzwald, 77933",48.309922,7.863539,1,exact,OK,48.30987930000001,7.8631701,"Kähnermatt 5/1, 77933 Lahr/Schwarzwald, Germany",ChIJe5uZ-ZUvkUcR4c_ZhYbF7Qc,ROOFTOP,27.692
+4921,"Kähnermatt 5/1, Lahr/Schwarzwald, 77933",48.309922,7.863539,1,exact,OK,48.30987930000001,7.8631701,"Kähnermatt 5/1, 77933 Lahr/Schwarzwald, Germany",ChIJe5uZ-ZUvkUcR4c_ZhYbF7Qc,ROOFTOP,27.692
+809,"Schloßplatz 5, Eislingen/Fils, 73054",48.697251,9.706007,1,exact,OK,48.69748509999999,9.7058913,"Schloßpl. 5, 73054 Eislingen/Fils, Germany",ChIJ8Zf4czyhmUcRgEMSt6mgKeA,ROOFTOP,27.381
+810,"Schloßplatz 5, Eislingen/Fils, 73054",48.697251,9.706007,1,exact,OK,48.69748509999999,9.7058913,"Schloßpl. 5, 73054 Eislingen/Fils, Germany",ChIJ8Zf4czyhmUcRgEMSt6mgKeA,ROOFTOP,27.381
+2571,"Karlstr. 21/23, Kernen im Remstal, 71394",48.808616,9.321873,1,exact,OK,48.8088274,9.3216878,"Karlstraße 21, 71394 Kernen im Remstal, Germany",ChIJ90R25OXHmUcRyxnPbK8gLTM,ROOFTOP,27.138
+2572,"Karlstr. 21/23, Kernen im Remstal, 71394",48.808616,9.321873,1,exact,OK,48.8088274,9.3216878,"Karlstraße 21, 71394 Kernen im Remstal, Germany",ChIJ90R25OXHmUcRyxnPbK8gLTM,ROOFTOP,27.138
+2573,"Karlstr. 21/23, Kernen im Remstal, 71394",48.808616,9.321873,1,exact,OK,48.8088274,9.3216878,"Karlstraße 21, 71394 Kernen im Remstal, Germany",ChIJ90R25OXHmUcRyxnPbK8gLTM,ROOFTOP,27.138
+2574,"Karlstr. 21/23, Kernen im Remstal, 71394",48.808616,9.321873,1,exact,OK,48.8088274,9.3216878,"Karlstraße 21, 71394 Kernen im Remstal, Germany",ChIJ90R25OXHmUcRyxnPbK8gLTM,ROOFTOP,27.138
+6334,"Wilhelmstr. 4 / 2, Weil im Schönbuch, 71093",48.620973,9.059959,1,exact,OK,48.6212041,9.0598467,"Wilhelmstraße 4/2, 71093 Weil im Schönbuch, Germany",EjVXaWxoZWxtc3RyYcOfZSA0LzIsIDcxMDkzIFdlaWwgaW0gU2Now7ZuYnVjaCwgR2VybWFueSIdGhsKFgoUChIJx87BXJTmmUcR5EvBzuT5mK0SATI,ROOFTOP,26.99
+6460,"Bahnhofstr. 2 / 1, Herrenberg, 71083",48.594259,8.865496,1,exact,OK,48.5944484,8.8653523,"Bahnhofstraße 2/1, 71083 Herrenberg, Germany",Ei1CYWhuaG9mc3RyYcOfZSAyLzEsIDcxMDgzIEhlcnJlbmJlcmcsIEdlcm1hbnkiHRobChYKFAoSCY-5IoceWZdHEUFvOO-vqG2MEgEx,ROOFTOP,23.563
+6461,"Bahnhofstr. 2 / 1, Herrenberg, 71083",48.594259,8.865496,1,exact,OK,48.5944484,8.8653523,"Bahnhofstraße 2/1, 71083 Herrenberg, Germany",Ei1CYWhuaG9mc3RyYcOfZSAyLzEsIDcxMDgzIEhlcnJlbmJlcmcsIEdlcm1hbnkiHRobChYKFAoSCY-5IoceWZdHEUFvOO-vqG2MEgEx,ROOFTOP,23.563
+5792,"Lehmgrube 1/3, Mönsheim, 71297",48.869142,8.852589,1,exact,OK,48.8691214,8.8522688,"Lehmgrube 1, 71297 Mönsheim, Germany",ChIJW226FtZ6l0cR_CoBwu9feLw,ROOFTOP,23.532
+6344,"Poststr. 1/3, Aichstetten, 88317",47.894639,10.079829,1,exact,OK,47.8946627,10.0795414,"Poststraße 1, 88317 Aichstetten, Germany",ChIJDxXiCj-Sm0cRKgDDbQ8fZoE,ROOFTOP,21.604
+7049,"Mühlweg 7/3, Biberach an der Riß, 88400",48.092169,9.793281,1,exact,OK,48.092287,9.7935086,"Mühlweg 7/3, 88400 Biberach an der Riß, Germany",ChIJ3SH-NZjFm0cR95clj16wezA,ROOFTOP,21.399
+7050,"Mühlweg 7/3, Biberach an der Riß, 88400",48.092169,9.793281,1,exact,OK,48.092287,9.7935086,"Mühlweg 7/3, 88400 Biberach an der Riß, Germany",ChIJ3SH-NZjFm0cR95clj16wezA,ROOFTOP,21.399
+6414,"Goethestr. 20/22, Böblingen, 71034",48.693214,8.961166,1,exact,OK,48.6932191,8.9608917,"Goethestraße 20, 71034 Böblingen, Germany",ChIJq0VIev3fmUcR2S5gWfJALjM,ROOFTOP,20.141
+6415,"Goethestr. 20/22, Böblingen, 71034",48.693214,8.961166,1,exact,OK,48.6932191,8.9608917,"Goethestraße 20, 71034 Böblingen, Germany",ChIJq0VIev3fmUcR2S5gWfJALjM,ROOFTOP,20.141
+6416,"Goethestr. 20/22, Böblingen, 71034",48.693214,8.961166,1,exact,OK,48.6932191,8.9608917,"Goethestraße 20, 71034 Böblingen, Germany",ChIJq0VIev3fmUcR2S5gWfJALjM,ROOFTOP,20.141
+4560,"Martin-Luther-Str. 79 / 2, Ludwigsburg, 71636",48.891901,9.182073,1,exact,OK,48.8920324,9.1822347,"Martin-Luther-Straße 79/2, 71636 Ludwigsburg, Germany",EjZNYXJ0aW4tTHV0aGVyLVN0cmHDn2UgNzkvMiwgNzE2MzYgTHVkd2lnc2J1cmcsIEdlcm1hbnkiHRobChYKFAoSCatoYEi70ZlHEdO2mFxn0brrEgEy,ROOFTOP,18.794
+4096,"Josefstr. 1/1, Rastatt, 76437",48.853619,8.207444,1,exact,OK,48.8534654,8.207415899999999,"Josefstraße 1/1, 76437 Rastatt, Germany",ChIJLQLiZ5Qdl0cRiT4BL87WWyA,ROOFTOP,17.203
+4097,"Josefstr. 1/1, Rastatt, 76437",48.853619,8.207444,1,exact,OK,48.8534654,8.207415899999999,"Josefstraße 1/1, 76437 Rastatt, Germany",ChIJLQLiZ5Qdl0cRiT4BL87WWyA,ROOFTOP,17.203
+4928,"Lammstr. 3, Lahr/Schwarzwald, 77933",48.34134,7.87123,1,exact,OK,48.3412948,7.871452300000001,"Lammstraße 3, 77933 Lahr/Schwarzwald, Germany",ChIJ6f3rbkYukUcRHVuT3j6KJbc,ROOFTOP,17.182
+4929,"Lammstr. 3, Lahr/Schwarzwald, 77933",48.34134,7.87123,1,exact,OK,48.3412948,7.871452300000001,"Lammstraße 3, 77933 Lahr/Schwarzwald, Germany",ChIJ6f3rbkYukUcRHVuT3j6KJbc,ROOFTOP,17.182
+4930,"Lammstr. 3, Lahr/Schwarzwald, 77933",48.34134,7.87123,1,exact,OK,48.3412948,7.871452300000001,"Lammstraße 3, 77933 Lahr/Schwarzwald, Germany",ChIJ6f3rbkYukUcRHVuT3j6KJbc,ROOFTOP,17.182
+4931,"Lammstr. 3, Lahr/Schwarzwald, 77933",48.34134,7.87123,1,exact,OK,48.3412948,7.871452300000001,"Lammstraße 3, 77933 Lahr/Schwarzwald, Germany",ChIJ6f3rbkYukUcRHVuT3j6KJbc,ROOFTOP,17.182
+160,"Enges Gässle 2/1, Jettingen, 71131",48.576683,8.774971,0.8,fallback,OK,48.5766003,8.7748236,"Enges Gässle 2/1, 71131 Jettingen, Germany",ChIJDzxZ5E9al0cRSgvDGl-Y1lU,ROOFTOP,14.218
+4302,"Brandströmstr. 1 / 1, Freudenstadt, 72250",48.46955,8.40952,1,exact,OK,48.4694991,8.4093473,"Brandströmstraße 1/1/1, 72250 Freudenstadt, Germany",EjVCcmFuZHN0csO2bXN0cmHDn2UgMS8xLzEsIDcyMjUwIEZyZXVkZW5zdGFkdCwgR2VybWFueSIdGhsKFgoUChIJRX7k4EY0l0cRTXeXIXL3XUUSATE,ROOFTOP,13.933
+5849,"Friedrichring 16/18, Freiburg im Breisgau, 79098",47.998031,7.851274,1,exact,OK,47.99793709999999,7.8513778,"Friedrichring 16-18, 79098 Freiburg im Breisgau, Germany",ChIJZSt-j5sckUcRKjg2mNY9YEg,ROOFTOP,12.987
+5850,"Friedrichring 16/18, Freiburg im Breisgau, 79098",47.998031,7.851274,1,exact,OK,47.99793709999999,7.8513778,"Friedrichring 16-18, 79098 Freiburg im Breisgau, Germany",ChIJZSt-j5sckUcRKjg2mNY9YEg,ROOFTOP,12.987
+5851,"Friedrichring 16/18, Freiburg im Breisgau, 79098",47.998031,7.851274,1,exact,OK,47.99793709999999,7.8513778,"Friedrichring 16-18, 79098 Freiburg im Breisgau, Germany",ChIJZSt-j5sckUcRKjg2mNY9YEg,ROOFTOP,12.987
+3950,"Olgastr. 83/85, Ulm, 89073",48.40149,9.988682,1,exact,OK,48.40152759999999,9.9885244,"Olgastraße 83-85, 89073 Ulm, Germany",ChIJ8U8nsYZmmUcRI3jAeY-XBFs,ROOFTOP,12.363
+841,"Marktplatz 11/12, Öhringen, 74613",49.200166,9.502172,1,exact,OK,49.2002091,9.5020265,"Marktpl. 11+12, 74613 Öhringen, Germany",ChIJgwS9VsA4mEcR_VeVlr2F-oQ,ROOFTOP,11.607
+853,"Sonnenstr. 35/37, Albstadt, 72458",48.212719,9.020549,1,exact,OK,48.2127245,9.0206845,"Sonnenstraße 35, 72458 Albstadt, Germany",ChIJ90GFcaMamkcRwzxllFEjjFU,ROOFTOP,10.059
+854,"Sonnenstr. 35/37, Albstadt, 72458",48.212719,9.020549,1,exact,OK,48.2127245,9.0206845,"Sonnenstraße 35, 72458 Albstadt, Germany",ChIJ90GFcaMamkcRwzxllFEjjFU,ROOFTOP,10.059
+8,"Faberstr. 13/1, Meckenbeuren, 88074",47.703533,9.552107,1,exact,OK,47.70360789999999,9.5521691,"Faberstraße 13/1, 88074 Meckenbeuren, Germany",ChIJadD14JKpm0cRenI746_OC-w,ROOFTOP,9.537
+9,"Faberstr. 13/1, Meckenbeuren, 88074",47.703533,9.552107,1,exact,OK,47.70360789999999,9.5521691,"Faberstraße 13/1, 88074 Meckenbeuren, Germany",ChIJadD14JKpm0cRenI746_OC-w,ROOFTOP,9.537
+10,"Faberstr. 13/1, Meckenbeuren, 88074",47.703533,9.552107,1,exact,OK,47.70360789999999,9.5521691,"Faberstraße 13/1, 88074 Meckenbeuren, Germany",ChIJadD14JKpm0cRenI746_OC-w,ROOFTOP,9.537
+1607,"Keplerstr. 19 / 1, Bietigheim-Bissingen, 74321",48.942991,9.128319,1,exact,OK,48.943043,9.128217,"Keplerstraße 19/1, 74321 Bietigheim-Bissingen, Germany",EjdLZXBsZXJzdHJhw59lIDE5LzEsIDc0MzIxIEJpZXRpZ2hlaW0tQmlzc2luZ2VuLCBHZXJtYW55Ih0aGwoWChQKEgnl39eydNSZRxH1xth6x0bqyxIBMQ,ROOFTOP,9.43
+1608,"Keplerstr. 19 / 1, Bietigheim-Bissingen, 74321",48.942991,9.128319,1,exact,OK,48.943043,9.128217,"Keplerstraße 19/1, 74321 Bietigheim-Bissingen, Germany",EjdLZXBsZXJzdHJhw59lIDE5LzEsIDc0MzIxIEJpZXRpZ2hlaW0tQmlzc2luZ2VuLCBHZXJtYW55Ih0aGwoWChQKEgnl39eydNSZRxH1xth6x0bqyxIBMQ,ROOFTOP,9.43
+1609,"Keplerstr. 19 / 1, Bietigheim-Bissingen, 74321",48.942991,9.128319,1,exact,OK,48.943043,9.128217,"Keplerstraße 19/1, 74321 Bietigheim-Bissingen, Germany",EjdLZXBsZXJzdHJhw59lIDE5LzEsIDc0MzIxIEJpZXRpZ2hlaW0tQmlzc2luZ2VuLCBHZXJtYW55Ih0aGwoWChQKEgnl39eydNSZRxH1xth6x0bqyxIBMQ,ROOFTOP,9.43
+4942,"Marktplatz 16, Lahr/Schwarzwald, 77933",48.340625,7.871359,1,exact,OK,48.3405897,7.871449200000001,"Marktpl. 16, 77933 Lahr/Schwarzwald, Germany",ChIJS1MzEkYukUcRPow3-gNcnWQ,ROOFTOP,7.736
+4943,"Marktplatz 16, Lahr/Schwarzwald, 77933",48.340625,7.871359,1,exact,OK,48.3405897,7.871449200000001,"Marktpl. 16, 77933 Lahr/Schwarzwald, Germany",ChIJS1MzEkYukUcRPow3-gNcnWQ,ROOFTOP,7.736
+852,"Schloßplatz 6, Eislingen/Fils, 73054",48.696978,9.706078,1,exact,OK,48.6970201,9.706008899999999,"Schloßpl. 6, 73054 Eislingen/Fils, Germany",ChIJTUKcbzyhmUcRe7sr0t8UYvg,ROOFTOP,6.902
+6547,"Hauptstr. 23/25, Staufen im Breisgau, 79219",47.882568,7.731329,1,exact,OK,47.8826109,7.731394299999999,"Hauptstraße 23, 79219 Staufen im Breisgau, Germany",ChIJQ1oz-hYGkUcRwnfzGGiD-5g,ROOFTOP,6.817
+354,"Leonberger Str. 29/1, Ditzingen, 71254",48.82494,9.0648,1,exact,OK,48.82495,9.064882299999999,"Leonberger Str. 29/1, 71254 Ditzingen, Germany",ChIJjfvcP7_ZmUcRA7V9B3MeScw,ROOFTOP,6.127
+355,"Leonberger Str. 29/1, Ditzingen, 71254",48.82494,9.0648,1,exact,OK,48.82495,9.064882299999999,"Leonberger Str. 29/1, 71254 Ditzingen, Germany",ChIJjfvcP7_ZmUcRA7V9B3MeScw,ROOFTOP,6.127
+356,"Leonberger Str. 29/1, Ditzingen, 71254",48.82494,9.0648,1,exact,OK,48.82495,9.064882299999999,"Leonberger Str. 29/1, 71254 Ditzingen, Germany",ChIJjfvcP7_ZmUcRA7V9B3MeScw,ROOFTOP,6.127
+357,"Leonberger Str. 29/1, Ditzingen, 71254",48.82494,9.0648,1,exact,OK,48.82495,9.064882299999999,"Leonberger Str. 29/1, 71254 Ditzingen, Germany",ChIJjfvcP7_ZmUcRA7V9B3MeScw,ROOFTOP,6.127
+358,"Leonberger Str. 29/1, Ditzingen, 71254",48.82494,9.0648,1,exact,OK,48.82495,9.064882299999999,"Leonberger Str. 29/1, 71254 Ditzingen, Germany",ChIJjfvcP7_ZmUcRA7V9B3MeScw,ROOFTOP,6.127
+359,"Leonberger Str. 29/1, Ditzingen, 71254",48.82494,9.0648,1,exact,OK,48.82495,9.064882299999999,"Leonberger Str. 29/1, 71254 Ditzingen, Germany",ChIJjfvcP7_ZmUcRA7V9B3MeScw,ROOFTOP,6.127
+4835,"Schloßplatz 16, Lahr/Schwarzwald, 77933",48.339932,7.87168,1,exact,OK,48.3398796,7.871690399999999,"Schloßpl. 16, 77933 Lahr/Schwarzwald, Germany",ChIJjSTzA0YukUcRKTSnddmfHlU,ROOFTOP,5.877
+7036,"Langenwegle 1, Lahr/Schwarzwald, 77933",48.341177,7.879009,1,exact,OK,48.34120290000001,7.878940699999999,"Langenwegle 1, 77933 Lahr/Schwarzwald, Germany",ChIJ10PK01oukUcRYE8mGukmSXU,ROOFTOP,5.812
+7037,"Langenwegle 1, Lahr/Schwarzwald, 77933",48.341177,7.879009,1,exact,OK,48.34120290000001,7.878940699999999,"Langenwegle 1, 77933 Lahr/Schwarzwald, Germany",ChIJ10PK01oukUcRYE8mGukmSXU,ROOFTOP,5.812
+4922,"Kreuzstr. 11, Lahr/Schwarzwald, 77933",48.339391,7.870896,1,exact,OK,48.3394324,7.8708655,"Kreuzstraße 11, 77933 Lahr/Schwarzwald, Germany",ChIJIw40oUgukUcRO6WrnPMPIco,ROOFTOP,5.126
+1509,"Mörikestr. 1/1, Sindelfingen, 71063",48.709314,9.006783,1,exact,OK,48.7092693,9.0067874,"Mörikestraße 1/1, 71063 Sindelfingen, Germany",ChIJ1fJgqsrfmUcRrtaXk83yKUI,ROOFTOP,4.981
+1510,"Mörikestr. 1/1, Sindelfingen, 71063",48.709314,9.006783,1,exact,OK,48.7092693,9.0067874,"Mörikestraße 1/1, 71063 Sindelfingen, Germany",ChIJ1fJgqsrfmUcRrtaXk83yKUI,ROOFTOP,4.981
+1511,"Mörikestr. 1/1, Sindelfingen, 71063",48.709314,9.006783,1,exact,OK,48.7092693,9.0067874,"Mörikestraße 1/1, 71063 Sindelfingen, Germany",ChIJ1fJgqsrfmUcRrtaXk83yKUI,ROOFTOP,4.981
+818,"Ebertstr. 24, Eislingen/Fils, 73054",48.700463,9.706465,1,exact,OK,48.7004965,9.7064253,"Ebertstraße 24, 73054 Eislingen/Fils, Germany",ChIJG9LsNTqhmUcR2BTTURF_paY,ROOFTOP,4.729
+819,"Ebertstr. 24, Eislingen/Fils, 73054",48.700463,9.706465,1,exact,OK,48.7004965,9.7064253,"Ebertstraße 24, 73054 Eislingen/Fils, Germany",ChIJG9LsNTqhmUcR2BTTURF_paY,ROOFTOP,4.729
+7227,"Kuhbacher Hauptstr. 71, Lahr/Schwarzwald, 77933",48.337776,7.910934,1,exact,OK,48.3378138,7.9109485,"Kuhbacher Hauptstraße 71, 77933 Lahr/Schwarzwald, Germany",ChIJ5672kegukUcRUwMhQdLQQWY,ROOFTOP,4.338
+6823,"Christoph-Mang-Str. 18/20, Freiburg im Breisgau, 79100",47.985197,7.836837,1,exact,OK,47.9852269,7.8368704,"Christoph-Mang-Straße 18-20, 79100 Freiburg im Breisgau, Germany",ChIJf8qPElkbkUcRH7QRN-4cVsM,ROOFTOP,4.151
+6824,"Christoph-Mang-Str. 18/20, Freiburg im Breisgau, 79100",47.985197,7.836837,1,exact,OK,47.9852269,7.8368704,"Christoph-Mang-Straße 18-20, 79100 Freiburg im Breisgau, Germany",ChIJf8qPElkbkUcRH7QRN-4cVsM,ROOFTOP,4.151
+7224,"Kaiserstr. 99, Lahr/Schwarzwald, 77933",48.34117,7.863391,1,exact,OK,48.3411988,7.8634257,"Kaiserstraße 99, 77933 Lahr/Schwarzwald, Germany",ChIJ69hdNDgukUcRqJqccMhBE7U,ROOFTOP,4.103
+6353,"Steinstr. 3/1, Heimsheim, 71296",48.806298,8.867323,1,exact,OK,48.8062941,8.8672796,"Steinstraße 3/1, 71296 Heimsheim, Germany",ChIJpbj-nW5kl0cRLzXyXDp8X3I,ROOFTOP,3.208
+4941,"Martin-Luther-Str. 7, Lahr/Schwarzwald, 77933",48.339791,7.855114,1,exact,OK,48.3398139,7.855139799999999,"Martin-Luther-Straße 7, 77933 Lahr/Schwarzwald, Germany",ChIJsaBTEzAukUcR1zRM7ph0mpU,ROOFTOP,3.181
+7211,"Friedrichstr. 86, Lahr/Schwarzwald, 77933",48.341515,7.878839,1,exact,OK,48.3415279,7.8788772,"Friedrichstraße 86, 77933 Lahr/Schwarzwald, Germany",ChIJbeGl1VoukUcRLTFrmaynZBg,ROOFTOP,3.167
+7212,"Friedrichstr. 86, Lahr/Schwarzwald, 77933",48.341515,7.878839,1,exact,OK,48.3415279,7.8788772,"Friedrichstraße 86, 77933 Lahr/Schwarzwald, Germany",ChIJbeGl1VoukUcRLTFrmaynZBg,ROOFTOP,3.167
+5089,"Wasen 51, Münstertal/Schwarzwald, 79244",47.855187,7.78575,1,exact,OK,47.8552109,7.785729399999999,"Wasen 51, 79244 Münstertal/Schwarzwald, Germany",ChIJCyFqviAHkUcRtSPn-d0r5j4,ROOFTOP,3.07
+5090,"Wasen 51, Münstertal/Schwarzwald, 79244",47.855187,7.78575,1,exact,OK,47.8552109,7.785729399999999,"Wasen 51, 79244 Münstertal/Schwarzwald, Germany",ChIJCyFqviAHkUcRtSPn-d0r5j4,ROOFTOP,3.07
+5091,"Wasen 51, Münstertal/Schwarzwald, 79244",47.855187,7.78575,1,exact,OK,47.8552109,7.785729399999999,"Wasen 51, 79244 Münstertal/Schwarzwald, Germany",ChIJCyFqviAHkUcRtSPn-d0r5j4,ROOFTOP,3.07
+2735,"Hohnerstr. 4/1, Trossingen, 78647",48.073307,8.637301,1,exact,OK,48.0733243,8.637328,"Hohnerstraße 4/1, 78647 Trossingen, Germany",ChIJ___vsKCYkEcRxCnl-usi57Q,ROOFTOP,2.779
+2736,"Hohnerstr. 4/1, Trossingen, 78647",48.073307,8.637301,1,exact,OK,48.0733243,8.637328,"Hohnerstraße 4/1, 78647 Trossingen, Germany",ChIJ___vsKCYkEcRxCnl-usi57Q,ROOFTOP,2.779
+6307,"Körnerstr. 19/1, Ludwigsburg, 71634",48.898463,9.188835,1,exact,OK,48.89844679999999,9.188810499999999,"Körnerstraße 19/1, 71634 Ludwigsburg, Germany",ChIJGebDFpbRmUcRVi8ViwV6Dn8,ROOFTOP,2.54
+6308,"Körnerstr. 19/1, Ludwigsburg, 71634",48.898463,9.188835,1,exact,OK,48.89844679999999,9.188810499999999,"Körnerstraße 19/1, 71634 Ludwigsburg, Germany",ChIJGebDFpbRmUcRVi8ViwV6Dn8,ROOFTOP,2.54
+6889,"Jammstr. 2, Lahr/Schwarzwald, 77933",48.342185,7.863952,1,exact,OK,48.3421697,7.863972899999998,"Jammstraße 2, 77933 Lahr/Schwarzwald, Germany",ChIJC9GmUTgukUcRZR-GK9WhCIo,ROOFTOP,2.298
+4914,"Voelckerstr. 2, Lahr/Schwarzwald, 77933",48.342659,7.868617,1,exact,OK,48.3426529,7.868645099999999,"Voelckerstraße 2, 77933 Lahr/Schwarzwald, Germany",ChIJwYIFDEcukUcRGLK_ILvDJ08,ROOFTOP,2.185
+4915,"Voelckerstr. 2, Lahr/Schwarzwald, 77933",48.342659,7.868617,1,exact,OK,48.3426529,7.868645099999999,"Voelckerstraße 2, 77933 Lahr/Schwarzwald, Germany",ChIJwYIFDEcukUcRGLK_ILvDJ08,ROOFTOP,2.185
+3648,"Schillerstr. 36/1, Backnang, 71522",48.946542,9.428024,1,exact,OK,48.94653479999999,9.4280495,"Schillerstraße 36/1, 71522 Backnang, Germany",ChIJd8ff9o7KmUcRlI0RzxdRgzM,ROOFTOP,2.027
+5860,"Hof 45, Münstertal/Schwarzwald, 79244",47.856411,7.771026,1,exact,OK,47.856423,7.771006499999999,"Hof 45, 79244 Münstertal/Schwarzwald, Germany",ChIJAf_iaB0HkUcRlopU6u9kgh0,ROOFTOP,1.974
+843,"Nussbaumweg 1/1, Öhringen, 74613",49.197016,9.506136,1,exact,OK,49.197,9.5061243,"Nussbaumweg 1/1, 74613 Öhringen, Germany",ChIJMxL-b5U4mEcRgn_HORYAPB8,ROOFTOP,1.972
+4829,"Sulzbergstr. 7, Lahr/Schwarzwald, 77933",48.31059,7.862915,1,exact,OK,48.3105887,7.862941500000001,"Sulzbergstraße 7, 77933 Lahr/Schwarzwald, Germany",ChIJ1_A0Gr4vkUcRF-Y7EaeGLDM,ROOFTOP,1.965
+4830,"Sulzbergstr. 7, Lahr/Schwarzwald, 77933",48.31059,7.862915,1,exact,OK,48.3105887,7.862941500000001,"Sulzbergstraße 7, 77933 Lahr/Schwarzwald, Germany",ChIJ1_A0Gr4vkUcRF-Y7EaeGLDM,ROOFTOP,1.965
+2105,"Lessingstr. 1, Eislingen/Fils, 73054",48.698409,9.714178,1,exact,OK,48.6984067,9.7141548,"Lessingstraße 1, 73054 Eislingen/Fils, Germany",ChIJPRw8XiShmUcRD5lriDbtvKc,ROOFTOP,1.722
+5014,"Schwarzwaldstr. 93, Lahr/Schwarzwald, 77933",48.338725,7.839709,1,exact,OK,48.3387299,7.839692599999999,"Schwarzwaldstraße 93, 77933 Lahr/Schwarzwald, Germany",ChIJOcpJN9YxkUcRz5Z9WKE9axI,ROOFTOP,1.329
+4230,"Von-Stauffenberg-Str. 4/1, Aldingen, 78554",48.093086,8.700458,1,exact,OK,48.0930817,8.7004438,"Von-Stauffenberg-Straße 4/1, 78554 Aldingen, Germany",ChIJ5zNMZ7ehkEcRMUB7crQ190s,ROOFTOP,1.158
+4231,"Von-Stauffenberg-Str. 4/1, Aldingen, 78554",48.093086,8.700458,1,exact,OK,48.0930817,8.7004438,"Von-Stauffenberg-Straße 4/1, 78554 Aldingen, Germany",ChIJ5zNMZ7ehkEcRMUB7crQ190s,ROOFTOP,1.158
+4232,"Von-Stauffenberg-Str. 4/1, Aldingen, 78554",48.093086,8.700458,1,exact,OK,48.0930817,8.7004438,"Von-Stauffenberg-Straße 4/1, 78554 Aldingen, Germany",ChIJ5zNMZ7ehkEcRMUB7crQ190s,ROOFTOP,1.158
+4214,"Kalmenbrunnenstr. 2/1, Langenau, 89129",48.501794,10.127876,1,exact,OK,48.5017892,10.1278818,"Kalmenbrunnenstraße 2/1, 89129 Langenau, Germany",ChIJK_m-1w5CmUcR1RrRA0PHDLY,ROOFTOP,0.684
+7003,"Schutterstr. 15, Lahr/Schwarzwald, 77933",48.328307,7.926487,1,exact,OK,48.328304,7.926486,"Schutterstraße 15, 77933 Lahr/Schwarzwald, Germany",ChIJ23OsoNcukUcRnBVvJfFkG8A,ROOFTOP,0.342
+7004,"Schutterstr. 15, Lahr/Schwarzwald, 77933",48.328307,7.926487,1,exact,OK,48.328304,7.926486,"Schutterstraße 15, 77933 Lahr/Schwarzwald, Germany",ChIJ23OsoNcukUcRnBVvJfFkG8A,ROOFTOP,0.342
