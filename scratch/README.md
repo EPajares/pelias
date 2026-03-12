@@ -8,28 +8,40 @@ Migrated from `goat` repo (`tools/pelias-germany-no-oa/` and `data/benchmark/`) 
 
 ```
 scratch/
-├── benchmark/          # Geocoding benchmark data, scripts, results
-│   ├── geocoding*.csv          # Test address datasets (BW doctor addresses)
-│   ├── google_cache.jsonl      # Cached Google Geocoding API responses
-│   ├── comparison_results.csv  # Internal vs Google comparison
-│   ├── run_*.py                # Benchmark & evaluation scripts
-│   ├── eval_*.md               # Evaluation result summaries
-│   ├── testset_*.csv           # Targeted regression test sets
-│   └── *.geojson               # Error visualisation layers
-├── docs/               # Research & strategy documents
+├── benchmark/                          # Geocoding benchmark data & scripts
+│   ├── geocoding.csv                   # Full BW doctor addresses (7,247 rows)
+│   ├── geocoding_unique.csv            # Deduplicated addresses (3,849 rows)
+│   ├── google_cache.jsonl              # Google Geocoding API results (gold standard)
+│   ├── testset_street_abbrev.csv       # Regression: str./straße/strasse variants
+│   ├── testset_housenumber_slash.csv   # Regression: 17/1 slash house numbers
+│   ├── run_geocoding_benchmark.py      # Run Google vs internal benchmark
+│   ├── run_internal_geocode_unique.py  # Query internal geocoder
+│   └── evaluate_internal_vs_google.py  # Compare & produce metrics
+├── docs/                               # Research & strategy documents
 │   ├── geocoding-benchmark-strategy.md
 │   └── geocoding-improvement-strategies.md
-├── patches/            # Pelias API bug-fix patches (JS files + Dockerfile)
-│   ├── Interpolation.js        # Fix: array street params & slash house numbers
-│   ├── pelias-sorting-index.js # Fix: postcode/city mismatch penalty in ranking
-│   └── Dockerfile              # Patch overlay for pelias/api:master
-├── projects/           # Pelias-docker project configurations
-│   ├── germany-no-oa/         # Full Germany, no OpenAddresses
-│   └── stuttgart-regbez/      # Stuttgart region (smaller, for fast iteration)
-└── scripts/            # Build & run scripts
+├── patches/                            # Pelias API bug-fix patches (reference)
+│   ├── Interpolation.js                # Fix: array street + slash house numbers
+│   ├── pelias-sorting-index.js         # Fix: ranking postcode/city mismatch
+│   └── Dockerfile                      # Patch overlay for pelias/api:master
+├── projects/                           # pelias-docker project configurations
+│   ├── germany-no-oa/                  # Full Germany, no OpenAddresses
+│   └── stuttgart-regbez/               # Stuttgart region (fast iteration)
+└── scripts/                            # Build & run helpers
     ├── run-build-no-oa.sh
     └── germany-no-oa-README.md
 ```
+
+## Repos to Fork
+
+Only **2** upstream repos need forking for the current bug fixes:
+
+| Repo | Fix | File |
+|------|-----|------|
+| [pelias/api](https://github.com/pelias/api) | Array street params + slash house numbers | `service/configurations/Interpolation.js` |
+| [pelias/sorting](https://github.com/pelias/sorting) | Ranking postcode/city mismatch penalty | `index.js` |
+
+`pelias-sorting` is an npm dep of `pelias/api` — point `package.json` at your fork to bundle both.
 
 ## Known Bugs (found & patched)
 
